@@ -28,6 +28,7 @@ module.exports = {
   "json": true,
   "latex": true,
   "less": true,
+  "lisp": true,
   "makefile": true,
   "markdown": true,
   "objectivec": true,
